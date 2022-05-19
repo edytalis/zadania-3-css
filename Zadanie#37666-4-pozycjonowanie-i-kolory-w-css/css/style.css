@@ -1,0 +1,13 @@
+.container {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.item {
+    height: 50px;
+    border: 2px solid;
+
+}
